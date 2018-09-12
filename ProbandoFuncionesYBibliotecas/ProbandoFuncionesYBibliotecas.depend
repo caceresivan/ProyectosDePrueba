@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536731619 source:/home/ivan/Escritorio/ProyectosDePrueba/ProbandoFuncionesYBibliotecas/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1536729400 /home/ivan/Escritorio/ProyectosDePrueba/ProbandoFuncionesYBibliotecas/biblioteca.h
+
+1536732858 source:/home/ivan/Escritorio/ProyectosDePrueba/ProbandoFuncionesYBibliotecas/ProyectoDePrueba.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"biblioteca.h"
+
